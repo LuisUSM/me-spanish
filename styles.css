@@ -45,6 +45,11 @@ body {
   justify-content: center;
 }
 
+/* HTML */
+html {
+  scroll-behavior: smooth;
+}
+
 /* Navigation bar */
 .navbar {
   width: 100%;
